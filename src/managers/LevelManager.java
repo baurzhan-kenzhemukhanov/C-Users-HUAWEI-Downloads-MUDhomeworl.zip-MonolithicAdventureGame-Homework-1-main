@@ -76,4 +76,3 @@ public class LevelManager {
         return rivals.isEmpty() && items.isEmpty();
     }
 }
-
