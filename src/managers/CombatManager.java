@@ -22,4 +22,3 @@ public class CombatManager {
         System.out.println(defender.getName() + " health: " + defender.getHealth());
     }
 }
-
